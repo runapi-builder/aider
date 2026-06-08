@@ -37,7 +37,7 @@ aider --model openai/<model-name>
 For example, with RunAPI:
 
 ```bash
-export OPENAI_API_BASE=https://api.runapi.ai/v1
+export OPENAI_API_BASE=https://runapi.ai/v1
 export OPENAI_API_KEY=<runapi-api-key>
 aider --model openai/<model-id>
 ```
